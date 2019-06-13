@@ -2,7 +2,7 @@
     "name": "private-openssl",
     "version": "1.0.204",
     "source": {
-        "http": "http://kostyshyn.org/files/libs/openssl-1_0_2d.zip"
+        "http": "https://kostyshyn.org/files/libs/openssl-1_0_2d.zip"
     },
     "ios": {
         "vendored_frameworks": "openssl.framework"
