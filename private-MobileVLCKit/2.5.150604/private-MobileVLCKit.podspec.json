@@ -10,7 +10,7 @@
         }
     ],
     "source": {
-        "http": "http://kostyshyn.org/files/libs/MobileVLCKit-UniversalBinary-20150604-0603.zip"
+        "http": "https://kostyshyn.org/files/libs/MobileVLCKit-UniversalBinary-20150604-0603.zip"
     },
     "ios": {
         "vendored_frameworks": "build/MobileVLCKit.framework"
