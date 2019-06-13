@@ -2,7 +2,7 @@
     "name": "private-libtorrent",
     "version": "1.0.6",
     "source": {
-        "http": "http://kostyshyn.org/files/libs/libtorrent_1_0_6.zip"
+        "http": "https://kostyshyn.org/files/libs/libtorrent_1_0_6.zip"
     },
     "ios": {
         "vendored_frameworks": "libtorrent.framework"
